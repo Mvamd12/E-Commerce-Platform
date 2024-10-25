@@ -1,0 +1,8 @@
+fastapi[standard]==0.115.0
+uvicorn
+passlib[bcrypt]
+python-jose[cryptography]==3.3.0
+psycopg2-binary
+pyjwt
+pydantic-settings
+sqlalchemy
